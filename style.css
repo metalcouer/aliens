@@ -1,0 +1,19 @@
+body{
+    color: blueviolet;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: black; 
+
+}
+
+.header{
+    color: blue;
+    font-family: Futura;
+}
+#list{
+    color: white;
+}
+.pic img{
+ width: 500px;
+ height: 250px;
+ border: 5px dotted red
+}
